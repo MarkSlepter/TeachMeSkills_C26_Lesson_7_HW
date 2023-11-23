@@ -1,4 +1,4 @@
-package Assignment2.Figures;
+package Assignment2.figure;
 
 public class Triangle extends Figure{
     public double side1;

@@ -1,4 +1,4 @@
-package Assignment1.Workers;
+package Assignment1.worker;
 
 import Assignment1.Position;
 

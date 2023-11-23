@@ -1,4 +1,4 @@
-package Assignment2.Figures;
+package Assignment2.figure;
 
 public class Circle extends Figure{
     public double radius;

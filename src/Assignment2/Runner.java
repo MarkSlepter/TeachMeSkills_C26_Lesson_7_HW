@@ -1,9 +1,9 @@
 package Assignment2;
 
-import Assignment2.Figures.Circle;
-import Assignment2.Figures.Figure;
-import Assignment2.Figures.Rectangle;
-import Assignment2.Figures.Triangle;
+import Assignment2.figure.Circle;
+import Assignment2.figure.Figure;
+import Assignment2.figure.Rectangle;
+import Assignment2.figure.Triangle;
 
 public class Runner {
 

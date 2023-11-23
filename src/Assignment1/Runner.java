@@ -1,8 +1,8 @@
 package Assignment1;
 
-import Assignment1.Workers.Booker;
-import Assignment1.Workers.Director;
-import Assignment1.Workers.Worker;
+import Assignment1.worker.Booker;
+import Assignment1.worker.Director;
+import Assignment1.worker.Worker;
 
 import java.util.Scanner;
 
